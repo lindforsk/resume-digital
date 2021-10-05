@@ -91,16 +91,3 @@ lisäopintoina minulla oli rakennuksen monitaitoinen energiasuunnittelija, liike
 _(Elokuu 2014 - Huhtikuu 2018)_ <br>
 Opinnäytetyöni aiheena oli kiinteistövalvonnan tehostaminen tuotantolaitoksessa energiatehokkaammaksi järjestelmäksi<br>
 <br><br>
-
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
