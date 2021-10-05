@@ -1,4 +1,4 @@
-# Kim Lindfors
+# Kim Lindfors  ![Image](src![cvpieni](https://user-images.githubusercontent.com/83721398/136075747-7cad6080-a4de-48e9-95ac-7531ae02d780.png)
 
 _Tekniikan maisteri, joka on opiskellut sähkövoimatekniikkaa yliopistossa ja sähkö- ja automaatiotekniikkaa ammattikorkeakoulussa_ <br>
 [Email](mailto:k.lindfors@outlook.com) / [LinkedIn](https://www.linkedin.com/in/lindforskim)
@@ -59,7 +59,7 @@ Sähköalan koulutus- ja tutkimussäätiö valitsee vuosittain opinnäytteiden j
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
