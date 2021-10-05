@@ -1,13 +1,11 @@
-## Welcome to GitHub Pages
+# Kim Lindfors
 
-You can use the [editor on GitHub](https://github.com/lindforsk/resume-digital/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_Tekniikan maisteri, joka on opiskellut sähkövoimatekniikkaa yliopistossa ja sähkö- ja automaatiotekniikkaa ammattikorkeakoulussa_ <br>
+[Email](mailto:k.lindfors@outlook.com) / [Linkedin](https://www.linkedin.com/in/lindforskim)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Työkokemus
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Projektipäällikkö @ [Granlund Häme Oy](https://www.granlund.fi) _(Toukokuu 2021 - jatkuu)_ <br>
 ```markdown
 Syntax highlighted code block
 
