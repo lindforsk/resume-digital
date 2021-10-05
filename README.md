@@ -3,7 +3,13 @@
 
 _Tekniikan maisteri, joka on opiskellut sähkövoimatekniikkaa yliopistossa ja sähkö- ja automaatiotekniikkaa ammattikorkeakoulussa_ <br><br>
 
-Vapaa-ajallani pyrin tekemään kaikkea mukavaa, yleensä löydän itseni joko maastopyöräilemästä, kuntosalilta tai amerikkalaisen jalkapallon parista. Minulla on myös kaksi koiraa, joiden kanssa käyn kävelemässä metsässä. Välillä saatan lähteä metsään myös yksin tai kavereiden kanssa telttailemaan tai riippumattoilemaan. Kaiken näiden lisäksi, tykkään välillä myös tehdä käsitöitä puusta tai tekstiilistä. Unohtamatta tietotekniikan parissa vietettäviä myöhäisiä tunteja, joina opiskelen joko tietoliikennetekniikkaa tai perus koodaamista. Liikun myös talvella hiihtokeskuksissa lasketellen tai paikallisilla hiihtoladuilla hiihdellen.
+Vapaa-ajallani pyrin tekemään kaikkea mukavaa, yleensä löydän itseni joko maastopyöräilemästä, kuntosalilta tai amerikkalaisen jalkapallon parista.<br> 
+Minulla on myös kaksi koiraa, joiden kanssa käyn kävelemässä metsässä. Välillä saatan lähteä metsään myös yksin tai kavereiden kanssa telttailemaan tai riippumattoilemaan. Kaiken näiden lisäksi, tykkään välillä myös tehdä käsitöitä puusta tai tekstiilistä. Unohtamatta tietotekniikan parissa vietettäviä myöhäisiä tunteja, joina opiskelen joko tietoliikennetekniikkaa tai perus koodaamista. <br>
+Liikun myös talvella hiihtokeskuksissa lasketellen tai paikallisilla hiihtoladuilla hiihdellen. <br>
+
+Omana vahvuutenani pidän tietomallintamisen, CAD-suunnittelun, ohjelmoinnin, omaan myös sähköasennuskokemuksen, tietotekniikan sekä käsillä työskentelemisen esimerkiksi rakentamisen.
+<br><br>
+
 
 [Email](mailto:k.lindfors@outlook.com) / [LinkedIn](https://www.linkedin.com/in/lindforskim)
 
@@ -43,6 +49,25 @@ _(alkaen aina vuodesta 2011)_
 Sähköalan koulutus- ja tutkimussäätiö valitsee vuosittain opinnäytteiden joukosta muutaman opinnäytetyön, jotka käsittelevät sen hetken asioita. 
 [Opinnäytetyössäni](https://www.theseus.fi/handle/10024/142189) käsiteltiin tehdashallin energiantehokkuutta parantavia prosesseja, hyödyntäen ja parantaen jo olemassa ollutta vanhentunutta rakennusautomaatiojärjestelmää.
 <br><br>
+
+## 🏘 Luottamustoimet
+
+**As Oy Myllykoivikko, hallituksen jäsen** <br>
+_(Tammikuu 2018 - jatkuu edelleen)_<br>
+Tätä toimea ennen, aktiivisesti mukana taloyhtiön asioissa.<br>
+<br>
+**Varatoiminnantarkastaja** @[Hämeenlinnan sähköasentajat ry](https://www.sahko018.fi/)<br>
+_(Tammikuu 2019 - jatkuu edelleen)_<br>
+<br>
+
+**Työsuojeluvaltuutettu** @ [Granlund Häme Oy](https://www.granlund.fi/sijainti/hameenlinna/)<br>
+_(Toukokuu 2020 - jatkuu edelleen)_ <br>
+Toimin valtuutettuna työsuojelun työryhmässä toimikaudella 2020 - 2021. <br>
+<br>
+
+**Yritys-, oppilaitos- sekä järjestöyhteistyö vastaava** @[SKOL Konsulttinuorten työryhmä](https://skol.teknologiateollisuus.fi/fi/skol-ry/konsulttinuoret/konsulttinuorten-tyoryhma-2021)<br>
+_(Tammikuu 2021 - jatkuu edelleen)_<br>
+<br>                                     
 
 ## 💬 Languages
 
