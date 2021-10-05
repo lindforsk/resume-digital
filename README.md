@@ -1,8 +1,12 @@
 # Kim Lindfors <br> 
 ![cvpieni](https://user-images.githubusercontent.com/83721398/136075747-7cad6080-a4de-48e9-95ac-7531ae02d780.png)
 
-_Tekniikan maisteri, joka on opiskellut sähkövoimatekniikkaa yliopistossa ja sähkö- ja automaatiotekniikkaa ammattikorkeakoulussa_ <br>
+_Tekniikan maisteri, joka on opiskellut sähkövoimatekniikkaa yliopistossa ja sähkö- ja automaatiotekniikkaa ammattikorkeakoulussa_ <br><br>
+
+Vapaa-ajallani pyrin tekemään kaikkea mukavaa, yleensä löydän itseni joko maastopyöräilemästä, kuntosalilta tai amerikkalaisen jalkapallon parista. Minulla on myös kaksi koiraa, joiden kanssa käyn kävelemässä metsässä. Välillä saatan lähteä metsään myös yksin tai kavereiden kanssa telttailemaan tai riippumattoilemaan. Kaiken näiden lisäksi, tykkään välillä myös tehdä käsitöitä puusta tai tekstiilistä. Unohtamatta tietotekniikan parissa vietettäviä myöhäisiä tunteja, joina opiskelen joko tietoliikennetekniikkaa tai perus koodaamista. Liikun myös talvella hiihtokeskuksissa lasketellen tai paikallisilla hiihtoladuilla hiihdellen.
+
 [Email](mailto:k.lindfors@outlook.com) / [LinkedIn](https://www.linkedin.com/in/lindforskim)
+
 
 ## Työkokemus
 
@@ -51,13 +55,15 @@ Sähköalan koulutus- ja tutkimussäätiö valitsee vuosittain opinnäytteiden j
 
 **Sähkövoimatekniikan diplomi-insinööri, Master of Science** <br>
 sivuaineenani oli kone- ja automaatiotekniikka<br>
-[Lappeenrannan teknillinen yliopisto](https://www.lut.fi/) - Lappeenranta, Suomi _(Elokuu 2018 - Heinäkuu 2020)_ <br>
+[Lappeenrannan teknillinen yliopisto](https://www.lut.fi/) - Lappeenranta, Suomi<br>
+_(Elokuu 2018 - Heinäkuu 2020)_ <br>
 Diplomityöni aiheena oli sähköenergian varastointi älykkäästi kiinteistössä<br>
 <br><br>
 
 **Sähkö- ja automaatiotekniikan koulutusohjelma, tekniikan insinööri** <br>
 lisäopintoina minulla oli rakennuksen monitaitoinen energiasuunnittelija, liiketalous, yrittäjyys, markkinointi, sekä LVI-tekniikan perusteita<br>
-[Hämeen ammattikorkeakoulu](https://www.hamk.fi/) - Valkeakoski, Suomi _(Elokuu 2014 - Huhtikuu 2018)_ <br>
+[Hämeen ammattikorkeakoulu](https://www.hamk.fi/) - Valkeakoski, Suomi<br>
+_(Elokuu 2014 - Huhtikuu 2018)_ <br>
 Opinnäytetyöni aiheena oli kiinteistövalvonnan tehostaminen tuotantolaitoksessa energiatehokkaammaksi järjestelmäksi<br>
 <br><br>
 
