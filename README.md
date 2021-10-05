@@ -1,4 +1,5 @@
-# Kim Lindfors  ![cvpieni](https://user-images.githubusercontent.com/83721398/136075747-7cad6080-a4de-48e9-95ac-7531ae02d780.png)
+# Kim Lindfors <br> 
+![cvpieni](https://user-images.githubusercontent.com/83721398/136075747-7cad6080-a4de-48e9-95ac-7531ae02d780.png)
 
 _Tekniikan maisteri, joka on opiskellut sähkövoimatekniikkaa yliopistossa ja sähkö- ja automaatiotekniikkaa ammattikorkeakoulussa_ <br>
 [Email](mailto:k.lindfors@outlook.com) / [LinkedIn](https://www.linkedin.com/in/lindforskim)
@@ -36,14 +37,21 @@ Sähköalan koulutus- ja tutkimussäätiö valitsee vuosittain opinnäytteiden j
 
 ## 💬 Languages
 
-**English**: Native <br>
-**German**: A2.2
+**Suomi**: Native <br>
+**English**: Fluent <br>
+**Svenska**: dålight
 <br><br>
 
-## 👩🏼‍🎓 Education
+## 👩🏼‍🎓 Koulutukseni
 
-**12-week intensive coding course** focused on full-stack JavaScript<br>
-[SPICED Academy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
+**Sähkövoimatekniikan diplomi-insinööri, Master of Science** sivuaineenani oli kone- ja automaatiotekniikka<br>
+[Lappeenrannan teknillinen yliopisto](https://www.lut.fi/) - Lappeenranta, Suomi _(Elokuu 2018 - Heinäkuu 2020)_ <br>
+Diplomityöni aiheena oli sähköenergian varastointi älykkäästi kiinteistössä<br>
+<br><br>
+
+**Sähkö- ja automaatiotekniikan koulutusohjelma, tekniikan insinööri, AMK** lisäopintoina minulla oli rakennuksen monitaitoinen energiasuunnittelija, liiketalous, yrittäjyys, markkinointi, sekä LVI-tekniikan perusteita<br>
+[Hämeen ammattikorkeakoulu](https://www.hamk.fi/) - Valkeakoski, Suomi _(Elokuu 2014 - Huhtikuu 2018)_ <br>
+Opinnäytetyöni aiheena oli kiinteistövalvonnan tehostaminen tuotantolaitoksessa energiatehokkaammaksi järjestelmäksi<br>
 <br><br>
 
 
