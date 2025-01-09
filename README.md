@@ -16,10 +16,17 @@ Omana vahvuutenani pidän tietomallintamisen, CAD-suunnittelun, ohjelmoinnin, om
 
 ## Työkokemus
 
+**Ryhmäpäällikkö, sähkö** @ [Granlund Oy](https://www.granlund.fi/sijainti/hameenlinna/)<br> 
+_(Toukokuu 2023 - )_ <br>
+Organisaatio ja yritys muutoksista johtuen yhtiön nimi on muuttunut, sekä Hämeenlinnan yksikkö on sulautunut konserniin. Samalla tehtävänkuva on muuttunut projektipäälliköstä esihenkilörooliin. Ensimmäisen vuoden olen ollut ilman tulosvastuuta, sekä toiminut pienen 4 henkisen ryhmän esihenkilönä. Vastaten ja hankkien töitä ryhmälleni, sekä vastannut projektien taloudellisesta puolesta. Olen toiminut vastaavana suunnittelijana useissa uudis- ja saneeraushankkeissa. Suunnitellut niin pienjänniteliittymiä, kuin keskijänniteliittymiä tehtaille. Hankkeita on ollut laidasta laitaan aina vaativiin suunnittelukohteisiin saakka. Kohteina on ollut terveyskeskuksia, liikuntahalleja, teollisuutta, logistiikkakeskuksia, huoltorakennuksia. Rakennusmateriaalina näissä on ollut yleisimmät rakennustavat betonielementit, puu tai moduulirakentaminen. Ryhmäpäällikkönä olen myös laatinut tarjouksia, sekä ollut mukana avustamassa haastavimmissa tarjous- ja urakkaneuvotteluissa. Välillä myös auttamaan asiakasta sopimusneuvotteluissa urakoitsijoiden kanssa asiantuntijaroolissa.
+Vuoteen 2025 lähdemme samalla ryhmällä, sekä yhdellä uudella työntekijällä. Ryhmässämme vallitsee hyvä yhteishenki. Sekä minulla on nyt myös tulosvastuu ryhmästä.
+<br><br>
+
 **Projektipäällikkö** @ [Granlund Häme Oy](https://www.granlund.fi/sijainti/hameenlinna/)<br> 
-_(Toukokuu 2021 - jatkuu)_ <br>
+_(Toukokuu 2021 - 2023)_ <br>
 Hyvin hoidettujen ja edenneiden hankkeiden ja projektien vuoksi, vuoden sivusta seuranneena ja opeteltaessa uusia työtehtäviä projektipäällikön tehtävät uralla oli selkeä seuraava askel samalla työnantajalla. Projektipäällikkönä vastaan omista pienemmistä asiakasprojekteista, sekä suuremmissa hankkeissa yhdessä kokeneemman päällikön kanssa. Tässä tehtävässä olen päässyt paremmin tutustumaan resurssointiin, sekä taloudelliseen puoleen hankkeissa. Tehtävässä on myöskin pitänyt joustaa tarvittaessa, sekä osata resurssoida erilaisia projekteja eri suunnittelijoille. Projektien alustaminen suunnitteluun on kuulunut tehtäviini, sekä mahdollisten ongelmatilanteiden ratkominen. 
 Kaiken tämän lisäksi, oman työni ohella vastaan edelleen yhtiömme ICT-laitteistosta kahden eri toimipisteen osalta. Sekä toimin yhtiömme työsuojeluvaltuutettuna kuluvana toimikautena. Kuulun myös SKOL Konsulttinuorten työryhmään, jossa pyrimme edistämään nuorien suunnittelijoiden ja konsulttien työskentelyä tällä erittäin mielenkiintoisella alalla!
+Projektipäällikkönä olin mukana suunnittelemassa, sekä toimin yhtiössämme projektipäällikön roolissa vuoden 2023 laadukkaimmassa projektissa, josta voi lukea lisää sivuiltamme https://www.granlund.fi/projektit/hyria-kauppalankadun-kampus/
 <br><br>
 
 **Projekti-insinööri & tietomallivastaava** @ [Granlund Häme Oy](https://www.granlund.fi/sijainti/hameenlinna/)<br>
@@ -61,8 +68,8 @@ _(Tammikuu 2019 - jatkuu edelleen)_<br>
 <br>
 
 **Työsuojeluvaltuutettu** @ [Granlund Häme Oy](https://www.granlund.fi/sijainti/hameenlinna/)<br>
-_(Toukokuu 2020 - jatkuu edelleen)_ <br>
-Toimin valtuutettuna työsuojelun työryhmässä toimikaudella 2020 - 2021. <br>
+_(Toukokuu 2020 - 2023)_ <br>
+Toimin valtuutettuna työsuojelun työryhmässä toimikaudella 2020 - 2021, sekä 2022 - 2023 <br>
 <br>
 
 **Yritys-, oppilaitos- sekä järjestöyhteistyö vastaava** @[SKOL Konsulttinuorten työryhmä](https://skol.teknologiateollisuus.fi/fi/skol-ry/konsulttinuoret/konsulttinuorten-tyoryhma-2021)<br>
