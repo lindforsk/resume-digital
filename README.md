@@ -98,3 +98,19 @@ lisäopintoina minulla oli rakennuksen monitaitoinen energiasuunnittelija, liike
 _(Elokuu 2014 - Huhtikuu 2018)_ <br>
 Opinnäytetyöni aiheena oli kiinteistövalvonnan tehostaminen tuotantolaitoksessa energiatehokkaammaksi järjestelmäksi<br>
 <br><br>
+
+**Sähkö- ja rakennusautomaatio tänään** <br>
+Setin järjestämä koulutus, jossa käytiin rakennusautomaation asioita lävitse. Sekä myönnettiin RAU-henkilöpätevyys<br>
+[SETI Oy]([https://www.seti.fi/rau-henkilopatevyys]) - Helsinki, Suomi<br>
+_(Huhtikuu 2018)_ <br>
+
+**Kylmäasentajan ammattitutkinto, kylmäainekäsittely (Y3)** <br>
+Kurssi suoritettiin AEL toimesta, jossa käytiin lävitse kylmäaineisiin liittyviä asetuksia, sekä toimintaperiaatteita.<br>
+[AEL Oy -> Taitotalo Oy]([https://www.taitotalo.fi/]) - Helsinki, Suomi<br>
+_(Syyskuu - Joulukuu 2017)_ <br>
+
+**Lämmityslaiteasentajan ammattitutkinto, osa 6 (E3, E3A)** <br>
+Kurssilla opeteltiin huolto-, asennus- ja käyttöönotto tehtäviä lämmitys- ja kylmälaitteista.<br>
+[AEL Oy -> Taitotalo Oy]([https://www.taitotalo.fi/]) - Helsinki, Suomi<br>
+_(Syyskuu - Joulukuu 2017)_ <br>
+
