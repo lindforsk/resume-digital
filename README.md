@@ -90,14 +90,14 @@ sivuaineenani oli kone- ja automaatiotekniikka<br>
 [Lappeenrannan teknillinen yliopisto](https://www.lut.fi/) - Lappeenranta, Suomi<br>
 _(Elokuu 2018 - Heinäkuu 2020)_ <br>
 Diplomityöni aiheena oli sähköenergian varastointi älykkäästi kiinteistössä<br>
-<br><br>
+<br>
 
 **Sähkö- ja automaatiotekniikan koulutusohjelma, tekniikan insinööri** <br>
 lisäopintoina minulla oli rakennuksen monitaitoinen energiasuunnittelija, liiketalous, yrittäjyys, markkinointi, sekä LVI-tekniikan perusteita<br>
 [Hämeen ammattikorkeakoulu](https://www.hamk.fi/) - Valkeakoski, Suomi<br>
 _(Elokuu 2014 - Huhtikuu 2018)_ <br>
 Opinnäytetyöni aiheena oli kiinteistövalvonnan tehostaminen tuotantolaitoksessa energiatehokkaammaksi järjestelmäksi<br>
-<br><br>
+<br>
 
 **Sähkö- ja rakennusautomaatio tänään** <br>
 Setin järjestämä koulutus, jossa käytiin rakennusautomaation asioita lävitse. Sekä myönnettiin RAU-henkilöpätevyys<br>
